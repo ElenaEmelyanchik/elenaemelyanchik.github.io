@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["85:2B:73:EA:79:87:81:5B:27:47:3B:33:DA:14:12:9B:34:88:24:87:B9:37:21:C6:A1:91:C7:30:7B:E0:48:3D"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "no.abax.admin",
+    "sha256_cert_fingerprints":
+    ["02:DB:28:3D:E0:92:3E:BC:E5:2D:9D:B7:7C:17:39:42:1B:4F:4C:4C:A4:25:A1:CB:A1:70:79:ED:02:E5:D0:70"]
+  }
 }]
